@@ -18,6 +18,7 @@ function App() {
       <Footer />
     </main>
   );
+  console.log("App is rendering");
 }
 
 export default App;
